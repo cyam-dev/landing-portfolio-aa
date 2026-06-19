@@ -1,0 +1,8 @@
+# Vault folders (Obsidian-only, no son parte del sitio web)
+notas/
+creativos/
+emails/
+
+# OS
+.DS_Store
+Thumbs.db
